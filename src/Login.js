@@ -4,8 +4,8 @@ const Login = () => {
     <div>
       login
       <ul>
-        <li>id</li>
-        <li>pw</li>
+        <li>id : lovbe</li>
+        <li>pw : 1234</li>
       </ul>
     </div>
   );
