@@ -5,7 +5,7 @@ const Login = () => {
       login
       <ul>
         <li>id : love</li>
-        <li>pw : 1234</li>
+        <li>pw : 123456789</li>
         <li>test</li>
       </ul>
     </div>
